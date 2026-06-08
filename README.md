@@ -48,7 +48,6 @@ Dự án được chia thành 4 phân hệ nghiên cứu độc lập (Thematic 
 ---
 
 ## 💡 Đề xuất Giải pháp (Strategic Recommendations)
-*(Ghi chú: Phần này sẽ được cập nhật số liệu chi tiết sau khi chạy toàn bộ luồng phân tích)*
 
 Dựa trên các phát hiện từ dữ liệu (Data-driven Insights), dự án đề xuất các định hướng chiến lược sau:
 1. **Chiến lược tối ưu hóa nguồn vốn & Sinh lời:** Cải thiện NIM thông qua việc cơ cấu lại tỷ trọng CASA và đa dạng hóa nguồn thu ngoài lãi (Non-interest income) cho cụm ngân hàng có quy mô vừa.
@@ -61,7 +60,6 @@ Dựa trên các phát hiện từ dữ liệu (Data-driven Insights), dự án 
 
 ## 📈 Trực quan hóa Dữ liệu (Final Deliverable)
 Toàn bộ dữ liệu sạch (Master Dataset) và các Insights cốt lõi nhất được hệ thống hóa trên Dashboard tương tác. 
-👉 **[Link to Interactive Dashboard - Power BI / Tableau](#)** *(Chèn link hoặc ảnh chụp màn hình Dashboard vào đây)*
 
 ---
 
