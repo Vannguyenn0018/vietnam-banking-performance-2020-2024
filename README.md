@@ -1,11 +1,11 @@
-# 📊 Vietnam Banking Sector Analysis (2020 - 2024): Performance, Risk & Viability
+# Vietnam Banking Sector Analysis (2020 - 2024): Performance, Risk & Viability
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Data_Manipulation-Pandas-150458.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit_Learn_|_XGBoost-orange.svg)
 ![BI](https://img.shields.io/badge/Dashboard-Power_BI_|_Tableau-yellow.svg)
 
-## 📖 Bối cảnh & Bài toán kinh doanh (Business Context)
+## Bối cảnh & Bài toán kinh doanh (Business Context)
 Dự án này được xây dựng nhằm đánh giá hiệu quả hoạt động và tiềm năng tăng trưởng của hệ thống Ngân hàng Thương mại tại Việt Nam trong giai đoạn **2020 - 2024**. Đây là một chu kỳ kinh tế đặc biệt, đánh dấu sự ảnh hưởng nặng nề của đại dịch COVID-19, những biến động vĩ mô phức tạp và quá trình phục hồi bứt tốc hậu đại dịch.
 
 **Mục tiêu cốt lõi:**
@@ -58,12 +58,7 @@ Dựa trên các phát hiện từ dữ liệu (Data-driven Insights), dự án 
 
 ---
 
-## 📈 Trực quan hóa Dữ liệu (Final Deliverable)
+##  Trực quan hóa Dữ liệu (Final Deliverable)
 Toàn bộ dữ liệu sạch (Master Dataset) và các Insights cốt lõi nhất được hệ thống hóa trên Dashboard tương tác. 
 
 ---
-
-## 🛠️ Hướng dẫn cài đặt & Chạy dự án (How to run)
-1. Clone repository này về máy:
-   ```bash
-   git clone [https://github.com/your-username/vietnam-banking-performance-2020-2024.git](https://github.com/your-username/vietnam-banking-performance-2020-2024.git)
